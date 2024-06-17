@@ -28,5 +28,5 @@ https://api.stackexchange.com/2.3/posts?page=1&pagesize=2&order=desc&sort=creati
 ```
 - A versão é _2.3_;
 - O recurso é _posts_;
-- Os parâmetros são necessários para especificar a página (_page_), o site (_site_), o início do período (_fromdate_), o final do período (_todate_), campo usado para ordenar o resultado (_sort_) e quantidade tags na resposta (_pagesize_).
+- Os parâmetros são necessários para especificar a página (_page_), o site (_site_), o início do período (_fromdate_), o final do período (_todate_), campo usado para ordenar o resultado (_sort_) e quantidade de postagens na resposta (_pagesize_).
 Para mais detalhes veja https://api.stackexchange.com/docs/posts.
